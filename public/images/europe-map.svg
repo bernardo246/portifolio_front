@@ -1,0 +1,9 @@
+<svg width="1400" height="700" viewBox="0 0 1400 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="700" fill="#090909"/>
+  <path d="M340 220L430 180L520 210L560 290L500 330L420 310L370 260Z" fill="#1B1B1B" stroke="#2C2C2C"/>
+  <path d="M590 200L700 170L760 220L750 290L660 310L610 250Z" fill="#1B1B1B" stroke="#2C2C2C"/>
+  <path d="M800 250L940 220L1010 300L940 370L820 350L780 290Z" fill="#1B1B1B" stroke="#2C2C2C"/>
+  <circle cx="440" cy="250" r="10" fill="#3ECF8E"/>
+  <text x="460" y="255" fill="#BDBDBD" font-size="26" font-family="Arial, sans-serif">Liverpool</text>
+  <text x="80" y="640" fill="#777" font-size="22" font-family="Arial, sans-serif">Mapa ilustrativo da Europa</text>
+</svg>

@@ -1,0 +1,35 @@
+@import "../styles/tokens.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #050505;
+  color: #fff;
+  overflow-x: hidden;
+}
+
+.section-container {
+  @apply mx-auto max-w-6xl px-6 py-20 md:px-10;
+}
+
+.section-title {
+  @apply text-3xl font-bold tracking-tight md:text-5xl;
+}
+
+.glass-card {
+  @apply border border-borderSoft bg-white/5 backdrop-blur-xl;
+}
+
+.focus-ring {
+  @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand focus-visible:ring-offset-2 focus-visible:ring-offset-bg;
+}
