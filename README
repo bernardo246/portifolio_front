@@ -1,0 +1,74 @@
+# 💼 Portfólio Pessoal
+
+Um portfólio web desenvolvido para apresentar minha trajetória, habilidades e projetos como estudante de Ciência da Computação. O objetivo é oferecer uma experiência moderna, interativa e responsiva, permitindo que recrutadores e profissionais conheçam meu perfil de forma dinâmica.
+
+## ✨ Sobre
+
+Este projeto foi desenvolvido utilizando **Next.js**, **TypeScript** e **Tailwind CSS**, explorando animações e efeitos de profundidade inspirados em sites como **Apple**, **Supabase**, **Vercel** e **Linear**. A interface utiliza um tema escuro com detalhes em verde, criando um visual elegante e tecnológico.
+
+Ao longo da página, o visitante encontra informações sobre minha formação, tecnologias, áreas de interesse, principais projetos, experiência internacional e formas de contato, tudo acompanhado por animações suaves durante a navegação.
+
+## 🚀 Tecnologias
+
+- Next.js 15
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- GSAP
+- Lucide React
+- Shadcn/UI
+
+## 📂 Funcionalidades
+
+- Interface moderna e responsiva
+- Animações durante o scroll
+- Efeitos de profundidade (pseudo-3D)
+- Seção "Sobre Mim"
+- Áreas de interesse
+- Tecnologias
+- Portfólio de projetos
+- Experiência internacional
+- Timeline da trajetória
+- Modal e botão flutuante para contato
+- SEO e otimização de performance
+
+## 🛠️ Executando o projeto
+
+Clone o repositório:
+
+```bash
+git clone <url-do-repositório>
+```
+
+Entre na pasta:
+
+```bash
+cd portfolio
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
+
+A aplicação estará disponível em:
+
+```
+http://localhost:3000
+```
+
+## 👨‍💻 Autor
+
+**Bernardo Cavalcanti Carneiro Leão**
+
+Estudante de Ciência da Computação na CESAR School, apaixonado por Engenharia de Software, Desenvolvimento Web, Engenharia de Dados, Cloud Computing e Arquitetura de Sistemas. Busco desenvolver soluções modernas, escaláveis e de alta qualidade, aliando conhecimento técnico, curiosidade e aprendizado contínuo.
+
+---
