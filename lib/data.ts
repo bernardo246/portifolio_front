@@ -11,7 +11,8 @@ export const interestAreas = [
   "Engenharia de Dados",
   "Arquitetura de Sistemas",
   "Desenvolvimento Web",
-  "Inteligência Artificial"
+  "Inteligência Artificial",
+  "Ciêntista de dados"
 ];
 
 export const skills = [
@@ -79,7 +80,7 @@ export const contactLinks = [
   { label: "LinkedIn", href: "https://www.linkedin.com/in/-bernardo-leao-cc/", value: "Bernardo Leão" },
   {
   label: "Email",
-  href: "mailto:https://mail.google.com",
+  href: "mailto:bernardoleao23@gmail.com",
   value: "bernardoleao23@gmail.com",
   },
   {

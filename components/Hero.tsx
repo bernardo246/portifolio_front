@@ -76,12 +76,12 @@ export default function Hero() {
             <div className="absolute -bottom-10 -right-10 h-40 w-40 rounded-full bg-brand/20 blur-3xl" />
             <div className="relative animate-float">
               <Image
-                src="/images/profile.svg"
-                alt="" // AQUI É A DESCRIÇÃO DA FOTO
+                src="/images/foto.jpg"
+                alt="Foto profissional de Bernardo Cavalcanti Carneiro Leão"
                 width={520}
                 height={620}
                 priority
-                className="h-auto w-full rounded-2xl border border-borderSoft object-cover"
+                className="h-auto w-full object-cover"
               />
             </div>
           </motion.div>
