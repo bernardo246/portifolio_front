@@ -10,7 +10,7 @@ Ao longo da página, o visitante encontra informações sobre minha formação, 
 
 ## 🚀 Tecnologias
 
-- Next.js 15
+- Next.js 16.3
 - React
 - TypeScript
 - Tailwind CSS
