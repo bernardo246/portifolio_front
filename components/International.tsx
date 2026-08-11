@@ -24,8 +24,12 @@ export default function International() {
         >
           <h2 className="section-title">Experiência Internacional</h2>
           <p className="mt-5 max-w-3xl text-lg text-textSecondary">
-            Minha experiência internacional fortaleceu minha fluência em inglês, autonomia,
-            adaptação, comunicação intercultural e capacidade de resolver problemas em diferentes contextos.
+            Minha experiência internacional foi fundamental para desenvolver e fortalecer minhas principais soft skills. Durante meu intercâmbio em Liverpool, na Inglaterra, tive a oportunidade de vivenciar uma nova cultura, aprimorar minha fluência em inglês e desenvolver uma comunicação mais eficiente com pessoas de diferentes perfis e nacionalidades.
+
+Além do intercâmbio, também tive a oportunidade de viajar sozinho pela França, Escócia, Holanda e Espanha. Essas experiências me fizeram sair constantemente da minha zona de conforto e desenvolver ainda mais minha autonomia, organização, capacidade de adaptação e resolução de problemas. Viajar sozinho exigiu que eu tomasse decisões de forma independente, lidasse com situações inesperadas e me adaptasse rapidamente a diferentes culturas, ambientes e formas de comunicação.
+
+Acredito que essas experiências contribuíram diretamente para a minha formação pessoal e profissional, fortalecendo meu pensamento crítico, minha confiança e minha capacidade de lidar com desafios. Hoje, me considero uma pessoa que aprende rapidamente, se adapta bem a mudanças, consegue trabalhar com diferentes perfis e não tem receio de enfrentar situações desconhecidas em busca de soluções.
+
           </p>
         </motion.div>
       </div>
