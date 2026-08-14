@@ -32,7 +32,9 @@ export const skills = [
   "Pandas",
   "APIs",
   "Cloud",
-  "Inteligência Artificial"
+  "Inteligência Artificial",
+  "RPA",
+  "n8n",
 ];
 
 export const projects = [
@@ -65,6 +67,13 @@ export const projects = [
     technologies: ["Python", "Pandas", "Data Analysis"],
     image: "/images/project-data.svg",
     github: "https://github.com/bernardo246/projeto_an-lise_de_dados)"
+  },
+  {
+    title: "Projeto low code de RPA",
+    description: "Projeto low-code em n8n para automatizar o processamento de boletos, realizando leitura, validação, organização e registro das informações de forma automática. A solução utiliza RPA (Robotic Process Automation), tecnologia que usa robôs de software para executar tarefas repetitivas, reduzindo erros e trabalho manual.",
+    technologies: ["n8n"],
+    image: "/images/RPA_BOLETO.png",
+    github: "https://n8n.io/"
   }
 ];
 
