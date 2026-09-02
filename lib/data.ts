@@ -30,11 +30,12 @@ export const skills = [
   "Git",
   "GitHub",
   "Pandas",
-  "APIs",
+  "APIs REST",
   "Cloud",
   "Inteligência Artificial",
   "RPA",
   "n8n",
+  "cloude code",
 ];
 
 export const projects = [
