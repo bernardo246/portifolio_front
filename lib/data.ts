@@ -75,7 +75,15 @@ export const projects = [
     technologies: ["n8n"],
     image: "/images/RPA_BOLETO.png",
     github: "https://n8n.io/"
-  }
+  },
+    {
+    title: "PROJETO DE C",
+    description:
+      "utilização de api de tempo, biblioteca gráfica e linguagem C para desenvolvimento de um jogo",
+    technologies: ["open meteo", "linguagem C","raylib"],
+    image: "/images/tela_menu.png",
+    github: "https://github.com/bernardo246/NaveganteTDC_capibaribe_aed"
+  },
 ];
 
 export const timelineEvents = [
