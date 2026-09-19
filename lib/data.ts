@@ -22,6 +22,7 @@ export const skills = [
   "TypeScript",
   "React",
   "Next.js",
+  "Node.js",
   "Spring Boot",
   "Docker",
   "PostgreSQL",
@@ -36,6 +37,8 @@ export const skills = [
   "RPA",
   "n8n",
   "cloude code",
+  "OpenRouter",
+  "JWT",
 ];
 
 export const projects = [
@@ -72,7 +75,7 @@ export const projects = [
   {
     title: "Projeto low code de RPA",
     description: "Projeto low-code em n8n para automatizar o processamento de boletos, realizando leitura, validação, organização e registro das informações de forma automática. A solução utiliza RPA (Robotic Process Automation), tecnologia que usa robôs de software para executar tarefas repetitivas, reduzindo erros e trabalho manual.",
-    technologies: ["n8n"],
+    technologies: ["n8n","RPA"],
     image: "/images/RPA_BOLETO.png",
     github: "https://n8n.io/"
   },
@@ -83,6 +86,14 @@ export const projects = [
     technologies: ["open meteo", "linguagem C","raylib","cJSON","Make"],
     image: "/images/tela_menu.png",
     github: "https://github.com/bernardo246/NaveganteTDC_capibaribe_aed"
+  },
+    {
+    title: "Compliance AI",
+    description:
+      "Desenvolvimento de uma plataforma web para análise automatizada de documentos utilizando Inteligência Artificial, permitindo o envio, processamento e avaliação de arquivos para identificação de possíveis irregularidades, riscos e pontos de atenção em diferentes áreas de compliance. A aplicação conta com autenticação, controle de acesso, processamento assíncrono, validação e segurança de arquivos, armazenamento de documentos, geração de análises estruturadas por IA e testes automatizados.",
+    technologies: ["Next.js","React","TypeScript","Tailwind CSS","NestJS","Node.js","Supabase","PostgreSQL","OpenRouter","JWT","Zod","ClamAV"],
+    image: "/images/compliance.png",
+    github: "https://github.com/bernardo246/compliance_ai"
   },
 ];
 
