@@ -95,6 +95,14 @@ export const projects = [
     image: "/images/compliance.png",
     github: "https://github.com/bernardo246/compliance_ai"
   },
+  {
+  title: "Novas Estruturas — Site Institucional",
+  description:
+    "Desenvolvimento de um site institucional estático para a Novas Estruturas, empresa especializada em montagem de estruturas para eventos. O projeto conta com geração estática via Next.js App Router, uma cena 3D interativa (estrutura metálica renderizada com Three.js/React Three Fiber) com efeito de tilt reativo ao mouse no Hero, animações de scroll com Framer Motion, tipografia self-hosted e uma paleta de cores customizada em azul-marinho e preto, sem uso de CMS.",
+  technologies: ["Next.js","React","TypeScript","Tailwind CSS","Three.js","React Three Fiber","Drei","Framer Motion"],
+  image: "/images/novas.png",
+  github: "https://github.com/bernardo246/novas-estruturas"
+},
 ];
 
 export const timelineEvents = [
