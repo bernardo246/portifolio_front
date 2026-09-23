@@ -36,7 +36,7 @@ export const skills = [
   "Inteligência Artificial",
   "RPA",
   "n8n",
-  "cloude code",
+  "claude code",
   "OpenRouter",
   "JWT",
 ];
