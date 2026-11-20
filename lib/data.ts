@@ -11,7 +11,7 @@ export const interestAreas = [
   "Engenharia de Dados",
   "Arquitetura de Sistemas",
   "Desenvolvimento Web",
-  "Inteligência Artificial",
+  "AI Engineer",
   "Ciêntista de dados"
 ];
 
@@ -36,9 +36,11 @@ export const skills = [
   "Inteligência Artificial",
   "RPA",
   "n8n",
-  "cloude code",
+  "claude code",
   "OpenRouter",
   "JWT",
+  "Framework AGNO",
+  "AWS Services"
 ];
 
 export const projects = [
@@ -109,7 +111,7 @@ export const timelineEvents = [
   "Ingresso na CESAR School",
   "Intercâmbio em Liverpool",
   "Desenvolvimento dos principais projetos",
-  "Futuro estágio"
+  "Estágio na AMIGO TECH em engenharia de ia"
 ];
 
 export const contactLinks = [
