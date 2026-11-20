@@ -28,7 +28,7 @@ export default function Hero() {
             Bernardo Cavalcanti Carneiro Leão
           </h1>
           <p className="mt-5 text-lg text-brand">
-            Estudante de Ciência da Computação • Desenvolvedor Full Stack • Engenheiro de Software • Engenheiro de Dados AI engineer
+            Estudante de Ciência da Computação • Desenvolvedor Full Stack • Engenheiro de Software • Engenheiro de Dados • AI engineer
           </p>
           <p className="mt-6 max-w-2xl text-textSecondary">
             Sou estudante de Ciência da Computação na CESAR School e apaixonado
